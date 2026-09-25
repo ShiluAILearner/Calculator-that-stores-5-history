@@ -1,1 +1,1 @@
-# Calculator-that-stores-5-history
+This calculator is made used only html, css, js. This stores past 5 history, also it stores scores : +1 for positive calculations and -1 for negetive calculations. It gives alert with each calculations to show score.
